@@ -1,4 +1,6 @@
 Principais comandos do GIT
 git init
+git config --global user.email
+git config --global user.name
 git add
 git commit
